@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in VBScript related to the IsEmpty function's handling of variant data types. The bug arises when checking for empty strings or zero values within the function. The solution involves using more robust type checking mechanisms to ensure correct function behavior.
